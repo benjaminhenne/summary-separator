@@ -1,5 +1,4 @@
 # Summary Separator
----
 ## What is this?
 This is a short script to parse TensorFlow summaries and separate them into one files per summary tag.
 
@@ -9,8 +8,6 @@ I wrote this so I can continue using TensorFlow's [summary operations][1] with l
 [1]: https://www.tensorflow.org/api_guides/python/summary#Generation_of_Summaries
 [2]: https://www.tensorflow.org/guide/summaries_and_tensorboard
 
-
----
 ## How it works
 To execute, the script needs the following paramters:
 
